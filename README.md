@@ -11,7 +11,7 @@ Dana's final product is a sleek, interactive, and easy to use webpage about UFO 
 ### Read the article.
 The first thing users will see when going to Dana's website is her article.
 
-![article](images/article.png)
+![article](static/images/article.png)
 
 ### Enter filters to search by.
 After users' interest is peaked by the world of UFOs, they can choose up to five filters to use to narrow down the data.
@@ -21,19 +21,20 @@ After users' interest is peaked by the world of UFOs, they can choose up to five
 - Country
 - Shape
 
-![filters](images/filters.png)
+![filters](static/images/filters.png)
 
 ### Review the table.
 After entering the search criteria, users will be presented with a table of UFO data based on their preferred filters.
 
-![table](images/table.png)
+![table](static/images/table.png)
 
 ### Complete a new search.
 Users can complete multiple searches by entering new search criteria.
 
 ### Clear the filters.
 To clear the filters and view the original table, users will click on the navigation bar at the top of the webpage.
-![navbar](images/navbar.png)
+
+![navbar](static/images/navbar.png)
 
 ## Summary
 
