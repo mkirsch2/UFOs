@@ -21,7 +21,7 @@ After users' interest is peaked by the world of UFOs, they can choose up to five
 - Country
 - Shape
 
-![filters](static/images/filters.png)
+![filter](static/images/filter.png)
 
 ### Review the table.
 After entering the search criteria, users will be presented with a table of UFO data based on their preferred filters.
