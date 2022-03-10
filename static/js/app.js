@@ -24,7 +24,7 @@ function buildTable(data) {
 }
 
 // 1. Create a variable to keep track of all the filters as an object.
-var filters = {};
+var filters = [];
 
 // 3. Use this function to update the filters. 
 function updateFilters() {
@@ -43,7 +43,7 @@ function updateFilters() {
     // 5. If a filter value was entered, then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
   if (elementValue) {
-    filters[filterId] = changedValue;
+    filters[filterId] = elementValue;
   }
   else{
     delete filters[filterId];
